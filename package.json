@@ -1,0 +1,33 @@
+{
+  "name": "language-pack",
+  "version": "1.0.0",
+  "description": "personal module for manage language pack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egg-/language-pack.git"
+  },
+  "author": {
+    "name": "egg",
+    "email": "i@egg.pe.kr"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egg-/language-pack/issues"
+  },
+  "homepage": "https://github.com/egg-/language-pack#readme",
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-mocha-test": "^0.13.3",
+    "matchdep": "^2.0.0",
+    "mocha": "^9.1.1",
+    "standard": "^16.0.3"
+  },
+  "dependencies": {
+    "googleapis": "^85.0.0"
+  }
+}
