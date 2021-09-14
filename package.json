@@ -1,6 +1,6 @@
 {
   "name": "language-pack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "personal module for manage language pack.",
   "main": "index.js",
   "scripts": {
