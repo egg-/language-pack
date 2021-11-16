@@ -16,4 +16,4 @@ const result = await languagePack.load(config.spreadsheetId, config.worksheetTit
 
 ## License
 
-atome is licensed under the [MIT license](https://github.com/egg-/language-pack/blob/main/LICENSE).
+language-pack is licensed under the [MIT license](https://github.com/egg-/language-pack/blob/main/LICENSE).
